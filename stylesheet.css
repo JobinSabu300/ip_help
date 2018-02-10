@@ -1,0 +1,109 @@
+body{
+	margin:0px;
+	padding:0px;
+	background-color: #ebeff2;
+}
+
+.custom-main-navbar{
+	border-radius:0px;
+	background-image: none;
+	background-color: #39444E;
+}
+
+#main-nav{
+	float: right;
+}
+
+/*NAVIAGATION INSIDE PAGE*/
+
+#custom-well-navigation-1{
+
+}
+
+.custom-button-nav{
+	min-height: 40px;
+	min-width: 200px;
+	margin-top: 20px;
+	background-image: none;
+	border-radius: 0px;
+}
+
+.main-header{
+	
+}
+
+#home-events{
+	min-height: 550px;
+	background-image: none;
+	background-color: white;
+	margin-top: 40px;
+}
+
+#home-academic-calender{
+	height: 580px;
+	background-image: none;
+	background-color: white;
+	margin-top: 40px;
+}
+
+.table-container{
+	height: 500px;
+	overflow: scroll;
+	overflow-x:hidden;
+}
+
+.footer{
+	min-height: 60px;
+	background-color: black;
+}
+
+.peopleCarouselImg img {
+  width: 100%;
+  height: auto;
+}
+
+.custom-carousel-indicators{
+	visibility: hidden;
+}
+
+.custom-carousel{
+	height: 500px;
+	overflow: hidden;
+}
+
+.main-ad-container{
+	min-height: 120px;
+	background-color: white;
+}
+
+
+.filter-container select{
+	height: 35px;
+	width:150px;
+	margin-right: 15px;
+	border-radius: 5px;
+	padding-left: 5px;
+}
+
+.filter-button{
+	width:150px;
+}
+
+.custom-table{
+	margin-top: 40px;
+}
+
+.img-team{
+	width: 200px;
+	height:200px;
+	border-radius: 100px;
+}
+
+.custom-panel-group{
+	margin-top: 40px;
+}
+
+.custom-panel-heading a{
+	text-decoration: none;
+	color: black;
+}

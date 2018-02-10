@@ -1,0 +1,5 @@
+[0907/130742.408:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Bookness\Application\58.0.3029.81\chrome.dll: The specified module could not be found. (0x7E)
+[0907/130746.922:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Bookness\Application\58.0.3029.81\chrome.dll: The specified module could not be found. (0x7E)
+[0907/130904.867:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Bookness\Application\58.0.3029.81\chrome.dll: The specified module could not be found. (0x7E)
+[0907/130907.846:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Bookness\Application\58.0.3029.81\chrome.dll: The specified module could not be found. (0x7E)
+[0120/172041.150:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
